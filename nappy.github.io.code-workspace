@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "nappy.github.io",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "terminal.integrated.cwd": "${workspaceFolder:nappy.github.io}"
+  }
+}
